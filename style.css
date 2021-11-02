@@ -1,0 +1,35 @@
+body {
+    background: #ABCDEF;
+    
+}
+
+
+h1 {
+    font-family: Verdana;
+	font-size: 20px;
+	font-weight: bold;
+	color: red;
+	word-spacing: 2px;
+}
+
+h2 {
+    font-family: Verdana;
+	font-size: 16px;
+	text-transform: uppercase;
+	word-spacing: 1px;
+	color:blue;
+}
+
+p {
+    font-family: Arial;
+	font-size: 16px;
+	text-indent: 13px;
+}
+
+ol {
+    font-family: Arial;
+	font-size: 18px;
+}
+
+
+
